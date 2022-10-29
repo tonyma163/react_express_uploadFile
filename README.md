@@ -8,8 +8,10 @@ npx create-react-app {project_name}
 ```
 
 ## Install
+```
 cd {project_name}
 npm i express cors multer axios
+```
 
 ##Steps
 1. Download the App.js and server.js
@@ -17,5 +19,7 @@ npm i express cors multer axios
 3. Paste the server.js in the project folder
 
 ##Run
+```
 node server.js
 npm start
+```
