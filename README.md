@@ -3,7 +3,9 @@ Sending file from client to backend server.
 Using react and express.
 
 ## Create Web App
+```
 npx create-react-app {project_name}
+```
 
 ## Install
 cd {project_name}
